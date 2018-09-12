@@ -3,7 +3,7 @@
 
     <string name="hello">Hello World, FillerCreepActivity!</string>
     <string name="app_name">FillerCreep</string>
-    <string name="welcome">Welcome To Filler Creep</string>
+    <string name="welcome">Welcome To Filler Creep!</string>
     <string name="newgame">Reset/New Game</string>
     <string name="scoreview">Current Score Only</string>
     <string name="textonlyview">Text Only Interface</string>
